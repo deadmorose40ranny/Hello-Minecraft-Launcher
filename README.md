@@ -188,4 +188,4 @@ This repository serves as the official landing page for Hello Minecraft Launcher
 **Get the most recent version of Hello Minecraft Launcher today!**
 
 ---
-**Last updated:** 2026-11-13 14:03:34 UTC
+**Last updated:** 2026-11-13 21:13:48 UTC
